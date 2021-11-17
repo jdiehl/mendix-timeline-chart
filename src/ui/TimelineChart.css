@@ -1,0 +1,8 @@
+/*
+Place your custom CSS here
+*/
+.chart-container {
+  position: relative;
+  min-height: 100px;
+  background: white;
+}

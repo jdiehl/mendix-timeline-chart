@@ -1,17 +1,18 @@
 ## TimelineChart
-[My widget description]
+This is a simple chart to show a single timeline series.
 
 ## Features
-[feature highlights]
+- Uses plotly
+- Automatic sizing in the parent container
 
 ## Usage
-[step by step instructions]
+Simply set the data source, value, and date attributes.
 
 ## Demo project
-[link to sandbox]
+None
 
 ## Issues, suggestions and feature requests
-[link to GitHub issues]
+https://github.com/jdiehl/mendix-timeline-chart
 
 ## Development and contribution
 
@@ -20,5 +21,3 @@
     - the widget will be bundled;
     - the bundle will be included in a `dist` folder in the root directory of the project;
     - the bundle will be included in the `deployment` and `widgets` folder of the Mendix test project.
-
-[specify contribution]

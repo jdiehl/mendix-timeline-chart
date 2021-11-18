@@ -7,7 +7,7 @@ import "./ui/TimelineChart.css";
 
 const TimelineChart: FunctionComponent<TimelineChartContainerProps> = ({ data, dataTime, dataValue, color }) => {
     if (!data?.items || !dataTime || !dataValue || !color?.value) {
-        return null;
+        return <LineChart data={[]} color={"#000000"} />;
     }
 
     const plotData: any[] = data.items.map(item => {

@@ -21,7 +21,7 @@
                     </attributeTypes>
                 </property>
                 <property key="dataValue" type="attribute" required="true" dataSource="data">
-                    <caption>Time Attribute</caption>
+                    <caption>Value Attribute</caption>
                     <description />
                     <attributeTypes>
                         <attributeType name="Integer"/>
